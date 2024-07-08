@@ -1,8 +1,8 @@
 .header  {
   font-family: monospace;
   background: papayawhip;
-  display: flex;
   padding: 10px;
+  display: flex;
 }
 
 .logo {
